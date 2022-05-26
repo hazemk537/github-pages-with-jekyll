@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my portfolio"
 ---
 
-I'm glad you are here. I plan to talk about ...
+[linkedin account](www.linkedin.com/in/hazem-shehawy-5980271b1)
